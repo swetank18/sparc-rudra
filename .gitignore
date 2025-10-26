@@ -1,0 +1,18 @@
+# ROS / colcon
+/build
+/install
+/log
+*.pyc
+__pycache__/
+*.swp
+.vscode/
+.idea/
+*.bag
+*.db3
+.DS_Store
+
+# ignore large generated files (meshes / logs)
+*.stl
+*.dae
+*.obj
+/tmp/
