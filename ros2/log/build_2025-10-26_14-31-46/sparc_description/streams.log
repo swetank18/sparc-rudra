@@ -1,0 +1,22 @@
+[0.028s] Invoking command in '/home/swetank/sparc-rudra/ros2/build/sparc_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/swetank/sparc-rudra/ros2/install/stair_detector:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/swetank/sparc-rudra/ros2/build/sparc_description -- -j16 -l16
+[0.239s] Invoked command in '/home/swetank/sparc-rudra/ros2/build/sparc_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/swetank/sparc-rudra/ros2/install/stair_detector:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/swetank/sparc-rudra/ros2/build/sparc_description -- -j16 -l16
+[0.240s] Invoking command in '/home/swetank/sparc-rudra/ros2/build/sparc_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/swetank/sparc-rudra/ros2/install/stair_detector:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/swetank/sparc-rudra/ros2/build/sparc_description
+[0.249s] -- Install configuration: ""
+[0.249s] -- Execute custom install script
+[0.250s] -- Up-to-date symlink: /home/swetank/sparc-rudra/ros2/install/sparc_description/share/sparc_description/urdf/sparc.urdf
+[0.250s] -- Up-to-date symlink: /home/swetank/sparc-rudra/ros2/install/sparc_description/share/ament_index/resource_index/package_run_dependencies/sparc_description
+[0.250s] -- Up-to-date symlink: /home/swetank/sparc-rudra/ros2/install/sparc_description/share/ament_index/resource_index/parent_prefix_path/sparc_description
+[0.250s] -- Up-to-date symlink: /home/swetank/sparc-rudra/ros2/install/sparc_description/share/sparc_description/environment/ament_prefix_path.sh
+[0.250s] -- Up-to-date symlink: /home/swetank/sparc-rudra/ros2/install/sparc_description/share/sparc_description/environment/ament_prefix_path.dsv
+[0.250s] -- Up-to-date symlink: /home/swetank/sparc-rudra/ros2/install/sparc_description/share/sparc_description/environment/path.sh
+[0.250s] -- Up-to-date symlink: /home/swetank/sparc-rudra/ros2/install/sparc_description/share/sparc_description/environment/path.dsv
+[0.250s] -- Up-to-date symlink: /home/swetank/sparc-rudra/ros2/install/sparc_description/share/sparc_description/local_setup.bash
+[0.251s] -- Up-to-date symlink: /home/swetank/sparc-rudra/ros2/install/sparc_description/share/sparc_description/local_setup.sh
+[0.251s] -- Up-to-date symlink: /home/swetank/sparc-rudra/ros2/install/sparc_description/share/sparc_description/local_setup.zsh
+[0.251s] -- Up-to-date symlink: /home/swetank/sparc-rudra/ros2/install/sparc_description/share/sparc_description/local_setup.dsv
+[0.251s] -- Symlinking: /home/swetank/sparc-rudra/ros2/install/sparc_description/share/sparc_description/package.dsv
+[0.261s] -- Up-to-date symlink: /home/swetank/sparc-rudra/ros2/install/sparc_description/share/ament_index/resource_index/packages/sparc_description
+[0.261s] -- Up-to-date symlink: /home/swetank/sparc-rudra/ros2/install/sparc_description/share/sparc_description/cmake/sparc_descriptionConfig.cmake
+[0.262s] -- Up-to-date symlink: /home/swetank/sparc-rudra/ros2/install/sparc_description/share/sparc_description/cmake/sparc_descriptionConfig-version.cmake
+[0.262s] -- Up-to-date symlink: /home/swetank/sparc-rudra/ros2/install/sparc_description/share/sparc_description/package.xml
+[0.263s] Invoked command in '/home/swetank/sparc-rudra/ros2/build/sparc_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/swetank/sparc-rudra/ros2/install/stair_detector:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/swetank/sparc-rudra/ros2/build/sparc_description

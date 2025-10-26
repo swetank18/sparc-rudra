@@ -1,0 +1,21 @@
+[0.021s] Invoking command in '/home/swetank/sparc-rudra/ros2/build/rudra_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/swetank/sparc-rudra/ros2/install/stair_detector:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/swetank/sparc-rudra/ros2/build/rudra_gazebo -- -j16 -l16
+[0.219s] Invoked command in '/home/swetank/sparc-rudra/ros2/build/rudra_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/swetank/sparc-rudra/ros2/install/stair_detector:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/swetank/sparc-rudra/ros2/build/rudra_gazebo -- -j16 -l16
+[0.230s] Invoking command in '/home/swetank/sparc-rudra/ros2/build/rudra_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/swetank/sparc-rudra/ros2/install/stair_detector:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/swetank/sparc-rudra/ros2/build/rudra_gazebo
+[0.240s] -- Install configuration: ""
+[0.240s] -- Execute custom install script
+[0.240s] -- Up-to-date symlink: /home/swetank/sparc-rudra/ros2/install/rudra_gazebo/share/ament_index/resource_index/package_run_dependencies/rudra_gazebo
+[0.241s] -- Up-to-date symlink: /home/swetank/sparc-rudra/ros2/install/rudra_gazebo/share/ament_index/resource_index/parent_prefix_path/rudra_gazebo
+[0.241s] -- Up-to-date symlink: /home/swetank/sparc-rudra/ros2/install/rudra_gazebo/share/rudra_gazebo/environment/ament_prefix_path.sh
+[0.241s] -- Up-to-date symlink: /home/swetank/sparc-rudra/ros2/install/rudra_gazebo/share/rudra_gazebo/environment/ament_prefix_path.dsv
+[0.241s] -- Up-to-date symlink: /home/swetank/sparc-rudra/ros2/install/rudra_gazebo/share/rudra_gazebo/environment/path.sh
+[0.241s] -- Up-to-date symlink: /home/swetank/sparc-rudra/ros2/install/rudra_gazebo/share/rudra_gazebo/environment/path.dsv
+[0.241s] -- Up-to-date symlink: /home/swetank/sparc-rudra/ros2/install/rudra_gazebo/share/rudra_gazebo/local_setup.bash
+[0.242s] -- Up-to-date symlink: /home/swetank/sparc-rudra/ros2/install/rudra_gazebo/share/rudra_gazebo/local_setup.sh
+[0.242s] -- Up-to-date symlink: /home/swetank/sparc-rudra/ros2/install/rudra_gazebo/share/rudra_gazebo/local_setup.zsh
+[0.242s] -- Up-to-date symlink: /home/swetank/sparc-rudra/ros2/install/rudra_gazebo/share/rudra_gazebo/local_setup.dsv
+[0.242s] -- Symlinking: /home/swetank/sparc-rudra/ros2/install/rudra_gazebo/share/rudra_gazebo/package.dsv
+[0.253s] -- Up-to-date symlink: /home/swetank/sparc-rudra/ros2/install/rudra_gazebo/share/ament_index/resource_index/packages/rudra_gazebo
+[0.254s] -- Up-to-date symlink: /home/swetank/sparc-rudra/ros2/install/rudra_gazebo/share/rudra_gazebo/cmake/rudra_gazeboConfig.cmake
+[0.254s] -- Up-to-date symlink: /home/swetank/sparc-rudra/ros2/install/rudra_gazebo/share/rudra_gazebo/cmake/rudra_gazeboConfig-version.cmake
+[0.254s] -- Up-to-date symlink: /home/swetank/sparc-rudra/ros2/install/rudra_gazebo/share/rudra_gazebo/package.xml
+[0.255s] Invoked command in '/home/swetank/sparc-rudra/ros2/build/rudra_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/swetank/sparc-rudra/ros2/install/stair_detector:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/swetank/sparc-rudra/ros2/build/rudra_gazebo

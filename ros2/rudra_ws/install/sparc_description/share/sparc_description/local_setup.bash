@@ -1,1 +1,0 @@
-/home/swetank/sparc-rudra/ros2/rudra_ws/build/sparc_description/ament_cmake_environment_hooks/local_setup.bash

@@ -1,0 +1,15 @@
+/home/swetank/sparc-rudra/ros2/install/rudra_gazebo/share/ament_index/resource_index/package_run_dependencies/rudra_gazebo
+/home/swetank/sparc-rudra/ros2/install/rudra_gazebo/share/ament_index/resource_index/parent_prefix_path/rudra_gazebo
+/home/swetank/sparc-rudra/ros2/install/rudra_gazebo/share/rudra_gazebo/environment/ament_prefix_path.sh
+/home/swetank/sparc-rudra/ros2/install/rudra_gazebo/share/rudra_gazebo/environment/ament_prefix_path.dsv
+/home/swetank/sparc-rudra/ros2/install/rudra_gazebo/share/rudra_gazebo/environment/path.sh
+/home/swetank/sparc-rudra/ros2/install/rudra_gazebo/share/rudra_gazebo/environment/path.dsv
+/home/swetank/sparc-rudra/ros2/install/rudra_gazebo/share/rudra_gazebo/local_setup.bash
+/home/swetank/sparc-rudra/ros2/install/rudra_gazebo/share/rudra_gazebo/local_setup.sh
+/home/swetank/sparc-rudra/ros2/install/rudra_gazebo/share/rudra_gazebo/local_setup.zsh
+/home/swetank/sparc-rudra/ros2/install/rudra_gazebo/share/rudra_gazebo/local_setup.dsv
+/home/swetank/sparc-rudra/ros2/install/rudra_gazebo/share/rudra_gazebo/package.dsv
+/home/swetank/sparc-rudra/ros2/install/rudra_gazebo/share/ament_index/resource_index/packages/rudra_gazebo
+/home/swetank/sparc-rudra/ros2/install/rudra_gazebo/share/rudra_gazebo/cmake/rudra_gazeboConfig.cmake
+/home/swetank/sparc-rudra/ros2/install/rudra_gazebo/share/rudra_gazebo/cmake/rudra_gazeboConfig-version.cmake
+/home/swetank/sparc-rudra/ros2/install/rudra_gazebo/share/rudra_gazebo/package.xml

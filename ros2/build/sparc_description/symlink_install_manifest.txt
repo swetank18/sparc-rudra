@@ -1,0 +1,16 @@
+/home/swetank/sparc-rudra/ros2/install/sparc_description/share/sparc_description/urdf/sparc.urdf
+/home/swetank/sparc-rudra/ros2/install/sparc_description/share/ament_index/resource_index/package_run_dependencies/sparc_description
+/home/swetank/sparc-rudra/ros2/install/sparc_description/share/ament_index/resource_index/parent_prefix_path/sparc_description
+/home/swetank/sparc-rudra/ros2/install/sparc_description/share/sparc_description/environment/ament_prefix_path.sh
+/home/swetank/sparc-rudra/ros2/install/sparc_description/share/sparc_description/environment/ament_prefix_path.dsv
+/home/swetank/sparc-rudra/ros2/install/sparc_description/share/sparc_description/environment/path.sh
+/home/swetank/sparc-rudra/ros2/install/sparc_description/share/sparc_description/environment/path.dsv
+/home/swetank/sparc-rudra/ros2/install/sparc_description/share/sparc_description/local_setup.bash
+/home/swetank/sparc-rudra/ros2/install/sparc_description/share/sparc_description/local_setup.sh
+/home/swetank/sparc-rudra/ros2/install/sparc_description/share/sparc_description/local_setup.zsh
+/home/swetank/sparc-rudra/ros2/install/sparc_description/share/sparc_description/local_setup.dsv
+/home/swetank/sparc-rudra/ros2/install/sparc_description/share/sparc_description/package.dsv
+/home/swetank/sparc-rudra/ros2/install/sparc_description/share/ament_index/resource_index/packages/sparc_description
+/home/swetank/sparc-rudra/ros2/install/sparc_description/share/sparc_description/cmake/sparc_descriptionConfig.cmake
+/home/swetank/sparc-rudra/ros2/install/sparc_description/share/sparc_description/cmake/sparc_descriptionConfig-version.cmake
+/home/swetank/sparc-rudra/ros2/install/sparc_description/share/sparc_description/package.xml

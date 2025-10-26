@@ -1,0 +1,1 @@
+/home/swetank/sparc-rudra/ros2/build/rudra_gazebo/ament_cmake_core/rudra_gazeboConfig.cmake

@@ -1,0 +1,17 @@
+/home/swetank/sparc-rudra/ros2/install/sparc_nav/share/ament_index/resource_index/package_run_dependencies/sparc_nav
+/home/swetank/sparc-rudra/ros2/install/sparc_nav/share/ament_index/resource_index/parent_prefix_path/sparc_nav
+/home/swetank/sparc-rudra/ros2/install/sparc_nav/share/sparc_nav/environment/ament_prefix_path.sh
+/home/swetank/sparc-rudra/ros2/install/sparc_nav/share/sparc_nav/environment/ament_prefix_path.dsv
+/home/swetank/sparc-rudra/ros2/install/sparc_nav/share/sparc_nav/environment/path.sh
+/home/swetank/sparc-rudra/ros2/install/sparc_nav/share/sparc_nav/environment/path.dsv
+/home/swetank/sparc-rudra/ros2/install/sparc_nav/share/sparc_nav/local_setup.bash
+/home/swetank/sparc-rudra/ros2/install/sparc_nav/share/sparc_nav/local_setup.sh
+/home/swetank/sparc-rudra/ros2/install/sparc_nav/share/sparc_nav/local_setup.zsh
+/home/swetank/sparc-rudra/ros2/install/sparc_nav/share/sparc_nav/local_setup.dsv
+/home/swetank/sparc-rudra/ros2/install/sparc_nav/share/sparc_nav/package.dsv
+/home/swetank/sparc-rudra/ros2/install/sparc_nav/share/ament_index/resource_index/packages/sparc_nav
+/home/swetank/sparc-rudra/ros2/install/sparc_nav/share/sparc_nav/cmake/sparc_navConfig.cmake
+/home/swetank/sparc-rudra/ros2/install/sparc_nav/share/sparc_nav/cmake/sparc_navConfig-version.cmake
+/home/swetank/sparc-rudra/ros2/install/sparc_nav/share/sparc_nav/package.xml
+/home/swetank/sparc-rudra/ros2/install/sparc_nav/share/sparc_nav/launch/nav2_bringup.launch.py
+/home/swetank/sparc-rudra/ros2/install/sparc_nav/share/sparc_nav/config/nav2_params.yaml

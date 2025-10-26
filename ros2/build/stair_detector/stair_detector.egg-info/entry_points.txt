@@ -1,0 +1,2 @@
+[console_scripts]
+stair_detector_node = stair_detector.stair_detector_node:main

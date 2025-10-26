@@ -1,0 +1,13 @@
+package.xml
+setup.cfg
+setup.py
+resource/stair_detector
+stair_detector/__init__.py
+stair_detector/stair_detector_node.py
+stair_detector.egg-info/PKG-INFO
+stair_detector.egg-info/SOURCES.txt
+stair_detector.egg-info/dependency_links.txt
+stair_detector.egg-info/entry_points.txt
+stair_detector.egg-info/requires.txt
+stair_detector.egg-info/top_level.txt
+stair_detector.egg-info/zip-safe

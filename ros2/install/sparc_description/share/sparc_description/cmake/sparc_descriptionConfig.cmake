@@ -1,0 +1,1 @@
+/home/swetank/sparc-rudra/ros2/build/sparc_description/ament_cmake_core/sparc_descriptionConfig.cmake

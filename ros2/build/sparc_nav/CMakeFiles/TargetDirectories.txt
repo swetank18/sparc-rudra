@@ -1,0 +1,9 @@
+/home/swetank/sparc-rudra/ros2/build/sparc_nav/CMakeFiles/uninstall.dir
+/home/swetank/sparc-rudra/ros2/build/sparc_nav/CMakeFiles/sparc_nav_uninstall.dir
+/home/swetank/sparc-rudra/ros2/build/sparc_nav/CMakeFiles/test.dir
+/home/swetank/sparc-rudra/ros2/build/sparc_nav/CMakeFiles/edit_cache.dir
+/home/swetank/sparc-rudra/ros2/build/sparc_nav/CMakeFiles/rebuild_cache.dir
+/home/swetank/sparc-rudra/ros2/build/sparc_nav/CMakeFiles/list_install_components.dir
+/home/swetank/sparc-rudra/ros2/build/sparc_nav/CMakeFiles/install.dir
+/home/swetank/sparc-rudra/ros2/build/sparc_nav/CMakeFiles/install/local.dir
+/home/swetank/sparc-rudra/ros2/build/sparc_nav/CMakeFiles/install/strip.dir
